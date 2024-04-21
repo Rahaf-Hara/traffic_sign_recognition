@@ -105,7 +105,7 @@ The model effectively detected traffic signs even under challenging conditions s
 Real-time detection was demonstrated in a simulated environment, showing the model's capability to operate effectively in dynamic scenarios.
 
 <p float="left">
-  <img src="RESULTS/yield.jpeg" width="49%" />
+  <img src="RESULTS/yeild.jpeg" width="49%" />
   <img src="RESULTS/stop.jpeg" width="49%" /> 
 </p>
 

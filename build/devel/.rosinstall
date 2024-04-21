@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/fadl94/catkin_ws/src/perception_project/build/devel/setup.sh
